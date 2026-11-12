@@ -9,7 +9,7 @@
    git add [file_name]
    
 
-   eg:git and index.html
+   eg:git add index.html
    ```
    To add all *files* and folders (follow this)
    ```
@@ -27,7 +27,7 @@
    ```
 5. Add remote url [link the remote repository url]
    ```
-  
+  <!--  -->
    git remote add origin "[git@github.com:hemshankarrrsah/hemshankarrrsah.git]"
    ```
 
