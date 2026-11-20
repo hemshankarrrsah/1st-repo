@@ -4,10 +4,8 @@ body{
 h1{
     font-family: cursive;
     color: rgb(138, 7, 7);
-    background-color: green;
+    background-color: rgba(255, 0, 0, 0.127);
     width: fit-content;
-    
-    
     
 }
 
@@ -19,4 +17,28 @@ img{
     justify-content: center;
     align-items: center;
 
+}
+h2,h3,h4{
+    font-size: larger;
+    color: brown;
+    width: fit-content;
+}
+ul{
+    color: rgb(11, 86, 12);
+}
+
+th{
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+     width: fit-content;
+    background-color: rgba(89, 139, 162, 0.28);
+    
+}
+
+td{
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    
 }
