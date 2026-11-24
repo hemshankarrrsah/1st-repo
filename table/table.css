@@ -10,6 +10,9 @@ td{
     color: brown ;
     font-family: cursive;
     font-weight: lighter;
+    font-weight: bolder;
+    padding-left: 50px;
+    font-size: 20px;
 }
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -18,4 +21,6 @@ h1{
 }
 table{
     margin-left: 30px;
+    height: 500px;
+    width: 500px;
 }
