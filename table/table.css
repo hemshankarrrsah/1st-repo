@@ -14,4 +14,8 @@ td{
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: darkgreen;
+    margin-left: 30px;
+}
+table{
+    margin-left: 30px;
 }
